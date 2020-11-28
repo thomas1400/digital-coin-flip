@@ -1,0 +1,21 @@
+Partlist exported from C:/Users/thoma/Documents/EAGLE/projects/Digital Coin Flip/coinflip.sch at 11/28/2020 5:09 PM
+
+Part Value  Device          Package      Description                
+C1   10nF   C-US050-024X044 C050-024X044 CAPACITOR, American symbol 
+C2   10uF   C-US050-024X044 C050-024X044 CAPACITOR, American symbol 
+IC1  LM393N LM393N          DIL08        COMPARATOR                 
+IC2  4027N  4027N           DIL16        Dual JK FLIP FLOP          
+JP1  5V     PINHD-1X2       1X02         PIN HEADER                 
+LED1        LED3MM          LED3MM       LED                        
+LED2        LED3MM          LED3MM       LED                        
+R1   20k    R-US_0207/10    0207/10      RESISTOR, American symbol  
+R2   20k    R-US_0207/10    0207/10      RESISTOR, American symbol  
+R3   20k    R-US_0207/10    0207/10      RESISTOR, American symbol  
+R4   4.7k   R-US_0207/10    0207/10      RESISTOR, American symbol  
+R5   220    R-US_0207/10    0207/10      RESISTOR, American symbol  
+R6   1k     R-US_0207/10    0207/10      RESISTOR, American symbol  
+R7   1M     R-US_0207/10    0207/10      RESISTOR, American symbol  
+R8   1k     R-US_0207/10    0207/10      RESISTOR, American symbol  
+S1          10-XX           B3F-10XX     OMRON SWITCH               
+T1   2N3904 2N3904          TO92         NPN TRANSISTOR             
+T2   2N3904 2N3904          TO92         NPN TRANSISTOR             
