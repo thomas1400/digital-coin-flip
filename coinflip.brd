@@ -78,7 +78,7 @@
 <text x="43.307" y="10.414" size="1.143" layer="21" rot="R90" align="center">HEADS</text>
 <text x="5.08" y="13.97" size="0.8128" layer="25" rot="R90" align="center">5V</text>
 <text x="53.721" y="12.065" size="1.27" layer="21" rot="R90" grouprefs="BUTTON">FLIP</text>
-<text x="33.528" y="9.652" size="1.27" layer="22" rot="MR90">Coin Flip v3.1</text>
+<text x="34.29" y="13.97" size="1.27" layer="22" rot="MR90" align="center">Coin Flip v3.1</text>
 <wire x1="52.07" y1="0" x2="2.54" y2="0" width="0" layer="20"/>
 <wire x1="2.54" y1="0" x2="0" y2="2.54" width="0" layer="20" curve="-90"/>
 <wire x1="0" y1="2.54" x2="0" y2="25.4" width="0" layer="20"/>
